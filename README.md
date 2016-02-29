@@ -1,2 +1,2 @@
-# -Jarek0100.github.io
+# Jarek0100.github.io
 My Website
